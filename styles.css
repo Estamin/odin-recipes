@@ -29,6 +29,11 @@ img{
     border-radius: 20px;
 }
 
+.index-li{
+    list-style: none
+}
+/* remove bullet points from index.html */
+
 .description{
     text-align: center;
     font-size: 20px;
